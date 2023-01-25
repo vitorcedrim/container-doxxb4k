@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "vitorcedrim",
+  "repo": "container-doxxb4k",
+  "name": "vitorcedrim",
+}
